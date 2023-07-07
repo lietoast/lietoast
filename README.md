@@ -2,7 +2,7 @@
 - 👀 I’m interested in golang/backend dev.
 - 🌱 I’m currently learning gRPC.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: lietoast016@gmail.com
+- 📫 How to reach me: hms_endeavour_dj@hotmail.com
 
 <!---
 lietoast/lietoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
